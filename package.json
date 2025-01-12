@@ -23,7 +23,7 @@
     "npm": ">= 10"
   },
   "dependencies": {
-    "@wordpress/api-fetch": "7.2.0",
+    "@wordpress/api-fetch": "7.14.0",
     "@wordpress/autop": "4.2.0",
     "@wordpress/components": "28.2.0",
     "@wordpress/compose": "7.2.0",
