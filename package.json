@@ -33,7 +33,7 @@
     "@wordpress/element": "6.2.0",
     "@wordpress/escape-html": "3.2.0",
     "@wordpress/html-entities": "4.2.0",
-    "@wordpress/i18n": "5.2.0",
+    "@wordpress/i18n": "5.14.0",
     "@wordpress/icons": "10.2.0",
     "@wordpress/is-shallow-equal": "5.2.0",
     "@wordpress/url": "4.2.0",
